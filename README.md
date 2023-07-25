@@ -17,12 +17,12 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| **2023.06 -** | **JPA 스터디** | [**기능 위주의 개발 공부를 반성하고 개념부터 공부하는 프로젝트**](https://github.com/maroowj/jpaStudy) |
-| **2022.11 - 2023.01** | **경제공동체 천인방(JPA)** | [**투자금 기록 및 수익금 분배 기능을 포함한 일종의 장부형 웹서비스**](https://github.com/maroowj/profitDivision) |
-| **2022.09 - .11** | **투어헬퍼 프로젝트(JPA)** | [**미얀마 유학생 및 근로자를 대상으로 그들의 학적 및 비자를 관리 하기 위한 웹페이지**](https://github.com/maroowj/tourHelper) | 
-| **2022.08 - .10** | **인천환경교육 가이드북 프로젝트(JPA)** | [**인천환경교육 가이드북 웹페이지 전환화 프로젝트**](https://github.com/maroowj/ecoEdu) |
-| **2022.02 - .04** | **트래블인천 프로젝트(JPA)** | [**인천의 관광지 소개 및 VR제작 의뢰**](https://github.com/maroowj/travelIncheon) |
-| **2021.10 - 2022.01** | **Adtool 프로젝트(MyBatis)** | [**동남아시아 쇼핑몰 체험단 모집**](https://github.com/maroowj/adtool) |
+| **2023.06 -** | **JPA 스터디** | [**기능 위주의 개발 공부를 반성하고 개념부터 공부하는 프로젝트 (JPA)**](https://github.com/maroowj/jpaStudy) |
+| **2022.11 - 2023.01** | **경제공동체 천인방** | [**투자금 기록 및 수익금 분배 기능을 포함한 일종의 장부형 웹서비스 (JPA)**](https://github.com/maroowj/profitDivision) |
+| **2022.09 - .11** | **투어헬퍼 프로젝트** | [**미얀마 유학생 및 근로자를 대상으로 그들의 학적 및 비자를 관리 하기 위한 웹페이지 (JPA)**](https://github.com/maroowj/tourHelper) | 
+| **2022.08 - .10** | **인천환경교육 가이드북 프로젝트** | [**인천환경교육 가이드북 웹페이지 전환화 프로젝트 (JPA)**](https://github.com/maroowj/ecoEdu) |
+| **2022.02 - .04** | **트래블인천 프로젝트** | [**인천의 관광지 소개 및 VR제작 의뢰 (JPA)**](https://github.com/maroowj/travelIncheon) |
+| **2021.10 - 2022.01** | **Adtool 프로젝트** | [**동남아시아 쇼핑몰 체험단 모집 (MyBatis)**](https://github.com/maroowj/adtool) |
 | **해외경험** | | |
 | **2017.12 - 2018.12** | **일본 도쿄 워킹홀리데이** | **개인 사업을 위한 시장 조사 - 도쿄 여행객을 대상으로 한 여행 스냅 사진 촬영** |
 
