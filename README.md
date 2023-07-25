@@ -17,7 +17,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| **2023.07 -** | **JPA 스터디** | [**기능 위주의 개발 공부를 반성하고 개념부터 공부하는 프로젝트**](https://github.com/maroowj/jpaStudy) |
+| **2023.06 -** | **JPA 스터디** | [**기능 위주의 개발 공부를 반성하고 개념부터 공부하는 프로젝트**](https://github.com/maroowj/jpaStudy) |
 | **2022.11 - 2023.01** | **경제공동체 천인방** | [**투자금 기록 및 수익금 분배 기능을 포함한 일종의 장부형 웹서비스**](https://github.com/maroowj/profitDivision) |
 | **2022.09 - .11** | **투어헬퍼 프로젝트** | [**미얀마 유학생 및 근로자를 대상으로 그들의 학적 및 비자를 관리 하기 위한 웹페이지**](https://github.com/maroowj/tourHelper) | 
 | **2022.08 - .10** | **인천환경교육 가이드북 프로젝트** | [**인천환경교육 가이드북 웹페이지 전환화 프로젝트**](https://github.com/maroowj/ecoEdu) |
